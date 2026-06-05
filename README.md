@@ -1,6 +1,7 @@
 # Sample app for Cloud Foundry runtime
 
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cf-sample-app-nodejs)](https://api.reuse.software/info/github.com/SAP-samples/cf-sample-app-nodejs)
+[![REUSE
+status](https://api.reuse.software/badge/github.com/SAP-samples/cf-sample-app-nodejs)](https://api.reuse.software/info/github.com/SAP-samples/cf-sample-app-nodejs)
 
 ## Description
 
